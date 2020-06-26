@@ -1,7 +1,8 @@
 ﻿using NUnit.Framework;
+using ShoppingBasket.Item;
 using ShoppingBasket.Item.Exceptions;
 
-namespace ShoppingBasket.Item
+namespace ShoppingBasket.Tests
 {
     [TestFixture]
     public class ItemNameTests

@@ -5,6 +5,7 @@ Besides the edge cases the code doesn't handle correctly, there are some minor f
 
 **TODO:**
 
+- Move unit tests into test project
 - Add documentation to public methods, etc
 
 ***Programming Challenge: Price Calculator for Shopping Basket***
