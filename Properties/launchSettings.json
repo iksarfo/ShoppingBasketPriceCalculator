@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShoppingBasket": {
+      "commandName": "Project",
+      "commandLineArgs": "Beans"
+    }
+  }
+}
