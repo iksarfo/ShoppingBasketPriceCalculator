@@ -3,7 +3,12 @@
 
 Besides the edge cases the code doesn't handle correctly, there are some minor formatting differences from the requirements which can be easily improved.
 
-**TODO:**
+**Before running**
+
+- Execute ```dotnet restore``` using the Package Manager Console
+
+
+**To do:**
 
 - Move unit tests into test project
 - Add documentation to public methods, etc
